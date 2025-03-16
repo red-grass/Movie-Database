@@ -21,6 +21,9 @@ The Movie Database contains the following details:
 
 ## Technologies Used
 * SQL
+* PostgreSQL
+* pgModeler (for database modeling)
+* pgAdmin (for database management)
 * Relational Database Management Systems (RDBMS)
 * Database Normalization
 * Query Optimization
@@ -34,5 +37,5 @@ The Movie Database contains the following details:
 
 ## How to Use
 1. Clone the repository
-2. Open the database files using an appropriate SQL database management tool (e.g., PostgreSQL, MySQL Workbench, SQLite).
+2. Open the database files using PostgreSQL with pgAdmin or any compatible SQL database management tool.
 3. Run the queries to explore and analyze the movie data.
