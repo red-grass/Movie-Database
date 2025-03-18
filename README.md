@@ -44,3 +44,6 @@ The Movie Database contains the following details:
 ## Future Improvements
 * Implement a web-based interface for easier movie search and updates.
 * Add a recommendation system based on movie ratings.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
