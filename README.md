@@ -34,8 +34,13 @@ The Movie Database contains the following details:
 * Advanced SQL Queries: Includes complex queries with JOINs, subqueries, and aggregate functions.
 * Data Integrity & Relationships: Foreign key constraints to ensure consistency.
 * Efficient Data Retrieval: Optimized indexes for performance.
+* SQL-based querying with optimized indexing.
 
 ## How to Use
 1. Clone the repository
 2. Open the database files using PostgreSQL with pgAdmin or any compatible SQL database management tool.
 3. Run the queries to explore and analyze the movie data.
+
+## Future Improvements
+* Implement a web-based interface for easier movie search and updates.
+* Add a recommendation system based on movie ratings.
